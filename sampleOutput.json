@@ -1,0 +1,159 @@
+{
+  "status": "ok",
+  "totalResults": 15,
+  "articles": [
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters",
+      "title": "Ukraine's Zelenskiy says he met top businessmen during U.S. visit",
+      "description": "Ukrainian President Volodymyr Zelenskiy said on Sunday he met leading American entrepreneurs and financiers during a visit this week to the United States, where investment opportunities in Ukraine were discussed.",
+      "url": "https://www.reuters.com/world/ukraines-zelenskiy-says-he-met-top-businessmen-during-us-visit-2023-09-24/",
+      "urlToImage": "https://www.reuters.com/resizer/Q2CLlVo-XL6Gup0in8tLa2UJcIY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y24OOXYVB5JDLILXFYC6S7CH4I.jpg",
+      "publishedAt": "2023-09-24T08:33:43Z",
+      "content": "KYIV, Sept 24 (Reuters) - Ukrainian President Volodymyr Zelenskiy said on Sunday he met leading American entrepreneurs and financiers during a visit this week to the United States, where investment o… [+828 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": "breitbart-news", "name": "Breitbart News" },
+      "author": "Wendell Husebø",
+      "title": "GOP Predicts Biden Business Received $50M, $30M More than Shown",
+      "description": "Republican lawmakers recently predicted the Biden business raked in more than $50 million, about $30 million more than bank records show.",
+      "url": "http://www.breitbart.com/politics/2023/09/23/gop-predicts-biden-organized-crime-ring-received-50m-30m-more-than-shown/",
+      "urlToImage": "https://media.breitbart.com/media/2023/07/Biden-Family-640x335.jpg",
+      "publishedAt": "2023-09-23T15:37:37Z",
+      "content": "Republican lawmakers recently predicted their investigation into the Biden family could prove the Biden business raked in more than $50 million, about $30 million more than bank records show thus far… [+3517 chars]"
+    },
+    {
+      "source": { "id": "the-huffington-post", "name": "The Huffington Post" },
+      "author": "Paul Blumenthal",
+      "title": "Democratic Sen. Robert Menendez Indicted On Bribery Charges — Again",
+      "description": "The New Jersey senator and his wife were indicted in New York for allegedly accepting bribes from an Egyptian American businessman in exchange for official acts.",
+      "url": "https://www.huffpost.com/entry/robert-menendez-indicted_n_650d98c2e4b04db03fdc1805",
+      "urlToImage": "https://img.huffingtonpost.com/asset/650d991e2400003200538553.jpeg?cache=Y3DsO5CfFj&ops=1200_630",
+      "publishedAt": "2023-09-22T13:46:17Z",
+      "content": "Sen. Bob Menendez (D-N.J.) arrives for Ukraine President Volodymyr Zelenskyy's meeting with U.S. senators in the Capitol on Sept. 21.\r\nSen. Robert Menendez (D-N.J.), the chairman of the Senate Foreig… [+8465 chars]"
+    },
+    {
+      "source": { "id": "recode", "name": "Recode" },
+      "author": "Peter Kafka",
+      "title": "Rupert Murdoch steps down as chairman of Fox and News Corp: What we know",
+      "description": "In November, Rupert Murdoch will step down from his media empire. His son, Lachlan Murdoch, will steer the family business from now on. Here’s what we know.",
+      "url": "https://www.vox.com/technology/2023/9/21/23884119/rupert-murdoch-fox-news-lachlan-james-succession",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/21gje3puqOTBb3O8jYr4iVRp4Xw=/0x0:3936x2061/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24940796/GettyImages_1258950748.jpg",
+      "publishedAt": "2023-09-21T17:15:35Z",
+      "content": "Rupert Murdoch spent a lifetime building one of the worlds most important media empires. Now, at age 92, he says hes no longer going to run it day to day. \r\nIn November, Murdoch will step down as cha… [+4946 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "Major business group blames Biden for UAW strike",
+      "description": "The United Auto Workers announced a strike at three plants — one each at Ford, General Motors and Stellantis — overnight.",
+      "url": "https://www.politico.com/news/2023/09/15/chamber-blames-biden-for-uaw-strike-00116216",
+      "urlToImage": "https://static.politico.com/bd/2c/a23ba1894935970bfe33fc3a9cc4/https-delivery-gettyimages.com/downloads/1241221279",
+      "publishedAt": "2023-09-15T11:38:22+00:00",
+      "content": "The United Auto Workers announced a strike at three plants one each at Ford, General Motors and Stellantis overnight after failing to agree on a contract with the so-called Big Three auto companies. … [+2220 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": null,
+      "title": "Strategy",
+      "description": "What You Need To Know About Business Strategy And Being Successful",
+      "url": "http://www.businessinsider.com/warroom",
+      "urlToImage": "https://www.businessinsider.com/public/assets/INSIDER/US/og-image-logo-social.png",
+      "publishedAt": "2023-08-23T15:52:30.1021883Z",
+      "content": "Social media sparked a rise in popularity for \"house hacking,\" a fancy new term for buying a home and bringing on roommates to pay for the mortgage.\r\nAI is a tsunami about to upend the global economy… [+6713 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider-uk",
+        "name": "Business Insider (UK)"
+      },
+      "author": null,
+      "title": "Strategy",
+      "description": "What You Need To Know About Business Strategy And Being Successful",
+      "url": "http://uk.businessinsider.com/warroom",
+      "urlToImage": "https://www.businessinsider.com/public/assets/INSIDER/US/og-image-logo-social.png",
+      "publishedAt": "2023-08-23T15:52:29.9303562Z",
+      "content": "Social media sparked a rise in popularity for \"house hacking,\" a fancy new term for buying a home and bringing on roommates to pay for the mortgage.\r\nAI is a tsunami about to upend the global economy… [+6713 chars]"
+    },
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Alex Fitzpatrick, Kavya Beheraj",
+      "title": "The country's new business hot spots, mapped",
+      "description": "The Southeastern U.S. is a hotbed of new business activity.",
+      "url": "https://www.axios.com/2023/07/13/new-business-hot-spots",
+      "urlToImage": "https://images.axios.com/aDr8aF2q-EoHWlnE6VUNLPYxpRE=/0x0:1280x720/1366x768/2023/07/12/1689197791881.png",
+      "publishedAt": "2023-07-13T09:30:06Z",
+      "content": "The Southeastern U.S. is a hotbed of new business activity, home to nine of the top 10 major metro areas with the most new business applications per 1,000 residents last year.\r\nDriving the news: That… [+1716 chars]"
+    },
+    {
+      "source": { "id": "financial-post", "name": "Financial Post" },
+      "author": "Financial Post",
+      "title": "Financial Post",
+      "description": "Looking for advice on your career? The Financial Post's Work section offers tips from experts on business and work life.",
+      "url": "http://business.financialpost.com/category/fp-work/",
+      "urlToImage": "https://dcs-static.gprod.postmedia.digital/13.5.3/websites/images/fp/ogimage-fp.png",
+      "publishedAt": "2023-05-17T20:37:35.1964584Z",
+      "content": null
+    },
+    {
+      "source": { "id": "financial-post", "name": "Financial Post" },
+      "author": "Financial Post",
+      "title": "Financial Post",
+      "description": "Read all about business essentials to get the best tips on money saving, retirement planning and other financial advice.",
+      "url": "https://financialpost.com/category/personal-finance/business-essentials/",
+      "urlToImage": "https://dcs-static.gprod.postmedia.digital/13.5.3/websites/images/fp/ogimage-fp.png",
+      "publishedAt": "2023-05-17T20:37:31.414993Z",
+      "content": null
+    },
+    {
+      "source": { "id": "financial-post", "name": "Financial Post" },
+      "author": "Financial Post",
+      "title": "Financial Post",
+      "description": "Stay updated on the Canadian economy with the Financial Post's latest business stories on Canadian industries, trade, policy, jobs and more.",
+      "url": "http://business.financialpost.com/category/news/economy/",
+      "urlToImage": "https://dcs-static.gprod.postmedia.digital/13.5.3/websites/images/fp/ogimage-fp.png",
+      "publishedAt": "2023-05-17T20:37:25.9932883Z",
+      "content": null
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Mark Davis",
+      "title": "Newsweek",
+      "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+      "url": "https://www.newsweek.com/",
+      "urlToImage": "https://d.newsweek.com/en/full/2202468/special-presidential-envoy-climate-john-kerry.jpg",
+      "publishedAt": "2023-03-01T12:07:28.8517009Z",
+      "content": null
+    },
+    {
+      "source": { "id": "financial-times", "name": "Financial Times" },
+      "author": null,
+      "title": "‘Money is no object’: Ghislaine Maxwell trial shines light on class divide",
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "url": "https://www.ft.com/content/0b9d93da-1687-4eb1-bd53-0a84a1b40dff",
+      "urlToImage": null,
+      "publishedAt": "2021-12-14T06:22:29.1165883Z",
+      "content": "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]"
+    },
+    {
+      "source": { "id": "financial-times", "name": "Financial Times" },
+      "author": null,
+      "title": "Need relief from the stress of screen time? There’s an app for that",
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "url": "https://www.ft.com/content/221cf7c4-56e7-4c7e-b6c0-cc3737da0330",
+      "urlToImage": null,
+      "publishedAt": "2021-12-14T06:22:27.4295096Z",
+      "content": "Let our global subject matter experts broaden your perspective with timely insights and opinions you\r\ncant find anywhere else."
+    }
+  ]
+}
