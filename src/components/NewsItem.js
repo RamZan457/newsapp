@@ -4,7 +4,7 @@ const NewsItem = (props) => {
   const { title, description, imageUrl, newsUrl, author, date, source } = props;
 
   return (
-    <div className="my-2">
+    <div>
       <div className="card h-100">
         <div
           style={{

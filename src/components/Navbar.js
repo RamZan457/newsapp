@@ -19,7 +19,7 @@ const Navbar = () => {
 
   return (
     <div>
-      <nav className="navbar navbar-expand-lg bg-body-tertiary border-bottom border-body">
+      <nav className="navbar fixed-top navbar-expand-lg bg-body-tertiary border-bottom border-body">
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">
             Navbar

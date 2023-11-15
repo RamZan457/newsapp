@@ -34,9 +34,13 @@ const News = (props) => {
   };
 
   const fetchMoreData = async () => {
-    setPage(page + 1);
     setLoading(true);
-    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
+    const url = `https://newsapi.org/v2/top-headlines?country=${
+      props.country
+    }&category=${props.category}&apiKey=${props.apiKey}&page=${
+      page + 1
+    }&pageSize=${props.pageSize}`;
+    setPage(page + 1);
 
     try {
       let data = await fetch(url);
@@ -52,7 +56,7 @@ const News = (props) => {
 
   return (
     <>
-      <h1 className="text-center" style={{ margin: "25px" }}>
+      <h1 className="text-center" style={{ margin: "55px" }}>
         NewsMonkey - {props.title}
       </h1>
       {loading && <Spinner />}
@@ -64,7 +68,7 @@ const News = (props) => {
         loader={<Spinner />}
       >
         <div className="container">
-          <div className="row  row-cols-1 my-2 row-cols-md-4 g-4">
+          <div className="row  row-cols-1 my-1 row-cols-md-4 g-4">
             {articles.map((element) => (
               <div key={element.url} className="col col-md-4">
                 <NewsItem
