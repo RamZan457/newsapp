@@ -5,7 +5,7 @@ export class Spinner extends Component {
   render() {
     return (
       <div className="text-center">
-        <img style={{ mixBlendMode: "color-burn" }} src={loading} alt="" />
+        <img style={{ mixBlendMode: "darken" }} src={loading} alt="" />
       </div>
     );
   }

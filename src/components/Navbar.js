@@ -113,7 +113,7 @@ export class Navbar extends Component {
 
               <div className="form-check form-switch">
                 <input
-                  className="form-check-input"
+                  className="btn btn-outline-info form-check-input"
                   type="checkbox"
                   role="switch"
                   id="flexSwitchCheckDefault"

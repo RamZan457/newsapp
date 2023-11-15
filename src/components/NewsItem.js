@@ -7,17 +7,21 @@ export class NewsItem extends Component {
     return (
       <div className="my-2">
         <div className="card h-100">
-          <span
-            className="position-absolute top-0 z-1 translate-middle badge rounded bg-secondary p-2"
-            style={{ left: "88%" }}
+          <div
+            style={{
+              display: "flex",
+              justifyContent: "flex-end",
+              position: "absolute",
+              right: "0",
+            }}
           >
-            {source}
-          </span>
+            <span className="z-1 badge rounded bg-secondary p-2">{source}</span>
+          </div>
           <img
             src={
-              !imageUrl
-                ? "https://images.unsplash.com/photo-1504711434969-e33886168f5c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmV3cyUyMGhlYWRsaW5lc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-                : imageUrl
+              imageUrl
+                ? imageUrl
+                : "https://images.unsplash.com/photo-1504711434969-e33886168f5c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmV3cyUyMGhlYWRsaW5lc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
             }
             className="card-img-top"
             alt="..."
@@ -30,7 +34,6 @@ export class NewsItem extends Component {
                 By {!author ? "Unknown" : author} on
                 {date ? new Date(date).toUTCString() : "Today"}
               </small>
-              ssName=
             </p>
 
             <a
